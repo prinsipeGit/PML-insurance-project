@@ -1,0 +1,16 @@
+# Kaggle competition data (not redistributable)
+data/*.csv
+data/*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
